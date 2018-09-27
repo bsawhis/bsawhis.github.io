@@ -1,10 +1,10 @@
-## **Challenge Skyrim**
+# **Challenge Skyrim**
 
 Un challenge qui plaira aux joueurs aguerris et/ou en manque d'aventure.
 
-**Règles:**
+## **Règles:**
 
-I. Mods
+### I. Mods
 
 Le challenge n'est valide que si vous installez les mods suivants:
 
@@ -24,7 +24,7 @@ Sont autorisés:
 
 Tous les autres mods sont **interdits**. Les DLC sont autorisés et recommandés.
 
-II. Quêtes et Guildes
+### II. Quêtes et Guildes
 
 1. Si vous démarrez une quête, vous devrez la terminer avant de continuer. Si la quête commence automatiquement, vous pouvez l'accomplir plus tard, mais si un des objectifs de cette quête est accompli, vous devrez vous y atteler et la finir. Si vous en avez le choix et que le donneur de quête vous le propose, vous pourrez faire la quête plus tard.
 2. Si vous démarrez une quête annexe, vous devez la terminer avant toutes les autres.
@@ -36,7 +36,7 @@ II. Quêtes et Guildes
 9. Vous ne pouvez être le thane que d'une seule châtellerie (Blancherive ne compte pas), et ne pouvez posséder qu'une seule maison.
 10. Petite précision: le Clan Volkihar ou la Garde de l'Aube ne comptent pas comme des guildes. 
 
-III. Équipement et Artisanat
+### III. Équipement et Artisanat
 
 La forge et l'enchantement sont **interdits**. De surcroît, vous ne pouvez améliorer vos armes et vos armures. Vous avez par contre la possibilités de recharger vos armes enchantées avec des gemmes spirituelles.
 L'alchimie est autorisée.
@@ -53,7 +53,7 @@ Vous devez enlever votre casque quand vous êtes à l'intérieur, sauf donjons.
 
 Quand vous accomplissez des missions relatives à votre faction, vous devez porter l'armure correspondante (sauf pour l'académie)
 
-IV. Races et classes
+### IV. Races et classes
 
 En fonction de votre race, vous devrez jouer de la manière qui suit:
 **Argonien**: Assassin ou Mage
@@ -79,7 +79,7 @@ Choisissez une classe au début et n'en changez plus.
 
 Les elfes, argoniens et khajiits ne peuvent rejoindre l'armée sombrage.
 
-V. Précisions supplémentaires et victoire
+### V. Précisions supplémentaires et victoire
 
 La partie est terminée si vous mourrez.
 
@@ -133,5 +133,7 @@ Vous pouvez aussi user d'une des victoires par défi disponibles:
 **"C'est en forgeant... ou pas"**: Atteignez le niveau expert en Forgeage sans jamais rien forger.
 
 **"Ils vécurent heureux"**: Gagnez la guerre, bâtissez un manoir, mariez-vous et ayez deux enfants.
+
+**"Professionnel"**: Ayez 70 en archerie, entrainez vous avec Angi, puis tuez Vittoria Vici à l'aide du Trépas de Firiniel.
 
 Bien sûr, comme ce défi nécessite une immersion absolue, toute aide extérieure est interdite.
